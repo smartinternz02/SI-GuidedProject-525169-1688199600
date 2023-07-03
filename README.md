@@ -6,6 +6,7 @@ A vulnerability assessment was conducted on X-Corp's machines. The following net
 
 ![alt-text](https://github.com/Travis-Dominguez/Attacking_a_Vulnerable_Network/blob/main/Images/Network_Topology.png "Network_Topology")
 
+For report please refer to the finding.md file
 
 
 
